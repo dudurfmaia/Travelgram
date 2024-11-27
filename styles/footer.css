@@ -22,3 +22,12 @@ ul li a:hover {
   color: var(--brand-color);
   text-decoration: underline;
 }
+
+@media (width <= 79rem) {
+ & footer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+ }
+
+}
