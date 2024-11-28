@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Travelgram" src="https://github.com/user-attachments/assets/c446e814-3c2f-4b28-ab83-9bf1fb6141f5" width="100%">
+  <img alt="Travelgram" src="(https://github.com/user-attachments/assets/1a47036b-208c-4b36-b1fc-0899945a9522" width="100%">
 
 </p>
 
